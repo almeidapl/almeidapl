@@ -1,4 +1,4 @@
-## Oi eu sou o PL, entusiasta de programação e tecnologia e Front End beginner 😀.
+## Oi eu sou o PL, entusiasta de programação, tecnologia e Front End beginner 😀.
 <div align="center">
   <a href="https://github.com/almeidapl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeidapl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
